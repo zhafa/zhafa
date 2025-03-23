@@ -20,7 +20,6 @@ I'm a passionate **Software Developer** and **Tech Enthusiast** currently studyi
 - **📱 MobileApp-Project** – A Kotlin-based mobile app project.
 - **🛒 Quick-Store** – A mobile e-commerce app built with Kotlin.
 - **🤖 bot_GNGPatchBot** – A Python bot for automation.
-- **👁️ eyecare_test** – A Blade-based web project for eye care.
 - **📊 Data-Warehouse-Sakila** – A project focused on data warehousing.
 - **💬 case-5-Aplikasi-Chat-berbasis-MVC** – A PHP-based MVC chat app with MySQL.
 - **📝 Website-Project** – A JavaScript-powered web project.
